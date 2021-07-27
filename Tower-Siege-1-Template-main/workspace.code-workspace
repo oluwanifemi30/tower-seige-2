@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\PRO-28"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PRO-28"
+	}
+}
